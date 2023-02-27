@@ -1,0 +1,18 @@
+:root {
+    --blue: hsl(223, 87%, 63%); /* button e iconos*/
+
+    --pale-blue: hsl(223, 100%, 88%); /* borde de campo */
+    --light-red: hsl(354, 100%, 66%); /* erro de validación, borde de campo y texto */
+
+    --gray: hsl(0, 0%, 59%); /* light text */
+    --very-dark-blue: hsl(209, 33%, 12%); /* bold text */
+    
+    --green: #2ECB70; /* figura detrás de la imagen de tablero */
+    --light-grey: #D5D5D5; /* puntos detrás de la figura verde */
+}
+
+h1 {
+    color: var(--gray);
+    font-size: 60px;
+    font-weight: bold;
+}
